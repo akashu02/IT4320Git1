@@ -8,3 +8,6 @@ Learned some cool stuff
 -git pull
 -git push
 -git clone
+
+### Cool stuff
+-learning branching
