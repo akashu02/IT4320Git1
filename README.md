@@ -1,6 +1,6 @@
 # Git Demo - Akash Upadhyay
 
-Actually Learning Git
+Actually Learning Git!!!!!!!!!!!
 
 Learned some cool stuff
 
@@ -8,3 +8,6 @@ Learned some cool stuff
 -git pull
 -git push
 -git clone
+
+### Cool stuff
+-learning branching
